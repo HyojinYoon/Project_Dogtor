@@ -1,7 +1,7 @@
 # Project_Dogtor
 <h1> java</h1>
 doctor(직원페이지)</br>
-board(게시판)</br>
+[board(게시판)](https://github.com/HyojinYoon/Project_Dogtor/tree/master/WebContent/Board)</br>
 message(메세지)</br>
 member(회원페이지)</br>
 
