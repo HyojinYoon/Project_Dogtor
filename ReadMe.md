@@ -8,7 +8,7 @@
 
 [DTO](https://github.com/HyojinYoon/Project_Dogtor/tree/master/src/memberDTO)
 
-#### [check](https://github.com/HyojinYoon/Project_Dogtor/tree/master/src/check)
+#### [check(member용)](https://github.com/HyojinYoon/Project_Dogtor/tree/master/src/check)
 
 ## [JSP](https://github.com/HyojinYoon/Project_Dogtor/tree/master/WebContent)
 #### [회원페이지(로그인/회원가입/마이페이지/회원관리)](https://github.com/HyojinYoon/Project_Dogtor/tree/master/WebContent/Member)
